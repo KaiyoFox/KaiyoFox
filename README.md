@@ -9,16 +9,14 @@ I'm Kaiyo, known as Bluefox on the internet. While Cyber Security isn't my cup o
 - 🖥️ Server aficionado, constantly experimenting with server setups and configurations.
 
 ## Contact Me
-
 - 📧 Email: contact@ptsv3.com
 - 🌐 Website: [ptsv3.com](https://ptsv3.com) | [kaiyo.dev](https://kaiyo.dev)
 
-## Education
-
-- 🎓 Cyber Security Classes at Fancy Extended Schooling area.
-- 📚 Soon to be Advanced Programming at Zed Fancy School.
-
-## Top Languages
-![Kaiyo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyoFox&show_icons=true&theme=radical)
+<h2>Education</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyoFox&show_icons=true&theme=radical" align="right">
+<ul>
+  <li>Cyber Security Classes at Fancy Extended Schooling area.</li>
+  <li>Soon to be Advanced Programming at Zed Fancy School.</li>
+</ul>
 
 Yes I am lazy and Chatgbt was used to make this because I suck at anything related to this
