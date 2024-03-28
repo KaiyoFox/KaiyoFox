@@ -13,7 +13,7 @@ I'm Kaiyo, known as Bluefox on the internet. While Cyber Security isn't my cup o
 - 🌐 Website: [ptsv3.com](https://ptsv3.com) | [kaiyo.dev](https://kaiyo.dev)
 
 <h2>Education</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyoFox&show_icons=true&theme=radical" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyoFox&show_icons=true&theme=shadow_blue" align="right">
 <ul>
   <li>Cyber Security Classes at Fancy Extended Schooling area.</li>
   <li>Soon to be Advanced Programming at Zed Fancy School.</li>
