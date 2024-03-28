@@ -19,4 +19,4 @@ I'm Kaiyo, known as Bluefox on the internet. While Cyber Security isn't my cup o
   <li>Soon to be Advanced Programming at Zed Fancy School.</li>
 </ul>
 
-Yes I am lazy and Chatgbt was used to make this because I suck at anything related to this
+Yes I am lazy and Chatgpt was used to make this because I suck at anything related to this
