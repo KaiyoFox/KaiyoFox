@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Kaiyo! 👋
 
-<!--
-**KaiyoFox/KaiyoFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kaiyo, known as Bluefox on the internet. While Cyber Security isn't my cup of tea, Software Development is where I thrive. I'm always tinkering with server setups and exploring the world of coding. When I'm not glued to my keyboard, you'll likely find me soldering circuits or diving into the intricate details of server administration.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Developer passionate about efficient code.
+- 🔧 Enthusiastic about soldering and hardware tinkering.
+- 🖥️ Server aficionado, constantly experimenting with configurations.
+
+## Contact Me
+
+- 📧 Email: contact@ptsv3.com
+- 🌐 Websites: [ptsv3.com](https://ptsv3.com) | [kaiyo.dev](https://kaiyo.dev)
+
+## Education
+
+- 🎓 Cyber Security Classes at Fancy Extended Schooling area.
+- 📚 Soon to be Advanced Programming at Zed Fancy School.
+
+## Top Languages
+![Kaiyo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyoFox&show_icons=true&theme=radical)
+
+Yes I am lazy and Chatgbt was used to make this because I suck at anything related to this
