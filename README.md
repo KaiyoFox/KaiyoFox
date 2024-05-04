@@ -9,7 +9,7 @@ I'm Kaiyo, known as Bluefox on the internet. While Cyber Security isn't my cup o
 - 🖥️ Server aficionado, constantly experimenting with server setups and configurations.
 
 ## Contact Me
-- 📧 Email: contact@ptsv3.com
+- 📧 Email: fox@kaiyo.dev
 - 🌐 Website: [ptsv3.com](https://ptsv3.com) | [kaiyo.dev](https://kaiyo.dev)
 
 <h2>Education</h2>
