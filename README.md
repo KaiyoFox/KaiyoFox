@@ -15,5 +15,5 @@ I'm Kaiyo, known as Bluefox on the internet. While Cyber Security isn't my cup o
 <h2>Education</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyoFox&theme=vue-dark" align="right">
 <ul>
-  <li>college near uh yeah</li>
+  <li>college soon;;; uh yeah</li>
 </ul>
