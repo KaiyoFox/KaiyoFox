@@ -15,8 +15,5 @@ I'm Kaiyo, known as Bluefox on the internet. While Cyber Security isn't my cup o
 <h2>Education</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyoFox&theme=vue-dark" align="right">
 <ul>
-  <li>Cyber Security Classes at Fancy Extended Schooling area.</li>
-  <li>Soon to be Advanced Programming at Zed Fancy School.</li>
+  <li>college near uh yeah</li>
 </ul>
-
-Yes I am lazy and Chatgpt was used to make this because I suck at anything related to this
