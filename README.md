@@ -1,11 +1,11 @@
 # Hi there, I'm Kaiyo! 👋
 
-I'm Kaiyo, known as Bluefox on the internet. While Cyber Security isn't my cup of tea, Software Development is where I thrive, and I'm always tinkering with server setups and exploring the world of coding. When I'm not glued to my keyboard, you'll likely find me soldering circuits or diving into the intricate details of server administration.
+I'm Kaiyo, a stupid Blue fox on the internet :/ I do software dev and embedded systems (borh for work and for fun)
 
 ## About Me
-- 💻 Software Developer with a passion for crafting ~~clean~~ and efficient code.
-- 🔧 Enthusiastic about soldering and exploring hardware tinkering.
-- 🖥️ Server aficionado, constantly experimenting with server setups and configurations.
+- 💻 Software Developer
+- 🔧 Soldering and Mechanical Design
+- 🖥️ Own and Operate a Dell R710 and a Dell R410
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyoFox&theme=vue-dark" align="right"></img>
 
 ## Contact Me
