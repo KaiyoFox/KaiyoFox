@@ -1,6 +1,6 @@
 # Hi there, I'm Kaiyo! 👋
 
-I'm Kaiyo, a stupid Blue fox on the internet :/ I do software dev and embedded systems (borh for work and for fun)
+I'm Kaiyo, a stupid Blue fox on the internet :/ I do software dev and embedded systems (both for work and for fun)
 
 ## About Me
 - 💻 Software Developer
